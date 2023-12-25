@@ -108,6 +108,13 @@ SELECT student_name, score,
 	END AS "Student Achievement Level"
 FROM scores;
 
+
+
+
+![Achievement](https://github.com/ChisomNneoma/Grace_College/assets/154308780/bcc21e57-e4d0-4ee3-ae9a-c86800d2628e)
+
+
+
 -- 6. Top Scoring Course: Which course has the highest average score among all courses?
 
 SELECT course_id, AVG(score) AS average_score
